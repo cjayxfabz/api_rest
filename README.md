@@ -11,3 +11,6 @@ Install Flask and MySQL Libraries:
 
 "Install Flask and other necessary libraries"
 pip install Flask flask-mysql flask-restful flask-testing
+git add .
+git commit -m "Initial commit"
+git push origin main
